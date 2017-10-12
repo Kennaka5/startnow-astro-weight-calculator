@@ -1,0 +1,1 @@
+This Calculator will convert the inputed weight to match the actuall weight on the planet selected.
